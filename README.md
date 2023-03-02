@@ -23,4 +23,13 @@ check('|(|)', [['(', ')'], ['|', '|']]) // -> false
 check('|()|(||)||', [['(', ')'], ['|', '|']]) // -> true
 ```
 
-Write your code in `src/index.js`
+## Stack
+* JavaScript (ES6)
+* Webpack
+* Git
+
+---
+
+### :white_check_mark: [Solution](https://github.com/Tatty13/brackets/blob/master/src/index.js)
+
+---
